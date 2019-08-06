@@ -9,7 +9,7 @@ bit export jesuspereyrad.gbh-react-components
 
 For documentation of a componen please click in the link.
 
-- [Button](/storybooks/button)
+- [Button](./storybooks/button)
 - Textfield
 - Pagination
 - Multiselect
