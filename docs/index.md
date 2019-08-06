@@ -18,7 +18,7 @@ For documentation of a componen please click in the link.
 - Tooltip
 - Date picker
 - Collapsible
-- Dropdown
+- [Dropdown](https://jesuspereyrad.github.io/page/storybook-static/?selectedKind=Dropdown)
 
 ```markdown
 Syntax highlighted code block
