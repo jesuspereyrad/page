@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to GBH React Library
 
-You can use the [editor on GitHub](https://github.com/jesuspereyrad/page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the GBH library to create reusable components to reuse it in all the projects that used React JS. This project has the types of all the components so can be used with typescript. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you want to download the entire collection of components add this library in your project with this command.
+bit export jesuspereyrad.gbh-react-components
 
-### Markdown
+### GBH Components
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For documentation of a componen please click in the link.
+
+- [Button](/storybooks/button)
+- Textfield
+- Pagination
+- Multiselect
+- Tab
+- Checkbox
+- Tooltip
+- Date picker
+- Collapsible
+- Dropdown
 
 ```markdown
 Syntax highlighted code block
